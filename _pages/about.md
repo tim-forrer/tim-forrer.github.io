@@ -5,10 +5,11 @@ permalink: /
 subtitle: i'm just a boy, standing in front of some maths, asking it to make sense
 
 profile:
-  align: right
+  align: left
   image: me.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
+    <p>Room 937, Faculty of Science Bldg. 1</p>
     <p>7-3-1 Hongo,</p>
     <p>Bunkyo-ku, Tokyo</p>
     <p>〒113-0033</p>
@@ -19,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-first year doctoral student at the university of tokyo, under the supervision of Prof. Mio Murao.
+first year doctoral student at the [Murao group](https://www.eve.phys.s.u-tokyo.ac.jp/) university of tokyo, under the supervision of Prof. Mio Murao.
 
 i'm interested in:
 - distributed quantum computing
