@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: i'm just a boy, standing in front of some maths, asking it to make sense
+subtitle: i'm just a boy, standing in front of some maths, asking it to make sense.
 
 profile:
-  align: left
+  align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 937, Faculty of Science Bldg. 1</p>
+    <p>Room 937, Faculty of Science Bldg. 1,</p>
+    <p>Faculty of Science Bldg. 1,</p>
     <p>7-3-1 Hongo,</p>
     <p>Bunkyo-ku, Tokyo</p>
     <p>〒113-0033</p>
